@@ -6,10 +6,6 @@
 
 分严格的阶段，每个阶段都会有评审
 
-
-
-<figure><img src="../.gitbook/assets/1 (1).png" alt=""><figcaption></figcaption></figure>
-
 — 特点
 
 * 阶段明确、依次关联
@@ -23,6 +19,8 @@
 
 ## V模型（瀑布变种）
 
+测试贯穿始终，测试分阶段，测试计划提前
+
 
 
 
@@ -30,8 +28,6 @@
 ## 原型模型
 
 简易系统构造来获取需求
-
-<figure><img src="../.gitbook/assets/1 (2).png" alt=""><figcaption></figcaption></figure>
 
 
 
