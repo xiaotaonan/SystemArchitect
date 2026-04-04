@@ -11,5 +11,6 @@
 * 需求获取
 * 需求分析
 * 形成需求规格（形成SRS）
-* 需求确认与验证（形成需求基线（经过评审的SRS））
+* 需求确认与验证（形成<mark style="color:$danger;">需求基线</mark>（经过评审的SRS（Software Requirements Specification）））
 * 需求（对【<mark style="color:$danger;">需求基线</mark>】进行管理）管理（变更控制、版本控制、需求跟踪、需求状态跟踪）
+
