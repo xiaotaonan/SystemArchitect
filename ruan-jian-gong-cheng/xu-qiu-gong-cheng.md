@@ -141,3 +141,24 @@ mindmap
 * 活动图：类似程序流程图，并行行为
 * 实时图：强调实际时间
 * 交互概览图
+
+— UML(4+1视图)
+
+```mermaid
+mindmap
+  root((用例视图（use-case view）
+  最终用户 
+  需求分析模型))
+    逻辑视图（logical view）
+      系统分析、设计人员
+      类与对象
+    实现视图（implementation view）
+      程序员
+      物理代码文件和组件
+    进程视图（process view）
+      系统集成人员
+      线程、进程、并发
+    部署视图（deployment view）
+      系统和网络工程师
+      软件到硬件的映射
+```
