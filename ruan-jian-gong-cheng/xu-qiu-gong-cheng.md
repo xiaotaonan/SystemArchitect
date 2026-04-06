@@ -207,6 +207,10 @@ flowchart LR
 
 <img src="../.gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
 
-<table><thead><tr><th width="138.06640625" align="center">原始需求/用例</th><th width="111.3984375">UC-1</th><th width="99.55078125">...</th><th>UC-n</th></tr></thead><tbody><tr><td align="center">FR-1</td><td></td><td></td><td></td></tr><tr><td align="center">.</td><td></td><td></td><td></td></tr><tr><td align="center">FR-n</td><td></td><td></td><td></td></tr></tbody></table>
+<table data-full-width="true"><thead><tr><th align="center">原始需求/用例</th><th>UC-1</th><th>...</th><th>UC-n</th></tr></thead><tbody><tr><td align="center">FR-1</td><td></td><td></td><td></td></tr><tr><td align="center">.</td><td></td><td></td><td></td></tr><tr><td align="center">FR-n</td><td></td><td></td><td></td></tr></tbody></table>
 
-<table><thead><tr><th width="141.2578125">用例/元素</th><th width="137.75" align="center">功能点</th><th width="149.6875" align="center">设计元素</th><th>代码模块</th><th>测试用例</th></tr></thead><tbody><tr><td>UC-1</td><td align="center"></td><td align="center"></td><td></td><td></td></tr><tr><td>.</td><td align="center"></td><td align="center"></td><td></td><td></td></tr><tr><td>UC-n</td><td align="center"></td><td align="center"></td><td></td><td></td></tr></tbody></table>
+| 用例/元素 | 功能点 | 设计元素 | 代码模块 | 测试用例 |
+| :---: | :-: | ---- | :--: | ---- |
+|  UC-1 |     |      |      |      |
+|   .   |     |      |      |      |
+|  UC-n |     |      |      |      |
