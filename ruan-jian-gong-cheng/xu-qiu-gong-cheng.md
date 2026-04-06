@@ -144,8 +144,7 @@ mindmap
 
 — UML(4+1视图)
 
-```mermaid
-mindmap
+<pre class="language-mermaid"><code class="lang-mermaid">mindmap
   root((用例视图（use-case view）
   最终用户 
   需求分析模型))
@@ -159,6 +158,13 @@ mindmap
       系统集成人员
       线程、进程、并发
     部署视图（deployment view）
-      系统和网络工程师
-      软件到硬件的映射
-```
+<strong>      系统和网络工程师
+</strong>      软件到硬件的映射
+</code></pre>
+
+## 4.需求定义
+
+### 4.1.需求开发
+
+#### 4.1.1.需求定义
+
