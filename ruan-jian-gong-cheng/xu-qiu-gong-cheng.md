@@ -218,3 +218,5 @@ flowchart LR
 #### 4.1.4.需求变更管理
 
 <img src="../.gitbook/assets/file.excalidraw (1).svg" alt="" class="gitbook-drawing">
+
+CCB 变更控制委员会
