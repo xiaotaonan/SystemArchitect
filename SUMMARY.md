@@ -11,5 +11,6 @@
 * [需求工程⭐️⭐️](ruan-jian-gong-cheng/xu-qiu-gong-cheng.md)
 * [系统分析与设计⭐️⭐️](ruan-jian-gong-cheng/xi-tong-fen-xi-yu-she-ji/README.md)
   * [软件系统建模⭐️⭐️](ruan-jian-gong-cheng/xi-tong-fen-xi-yu-she-ji/ruan-jian-xi-tong-jian-mo.md)
+  * [人机界面设计](ruan-jian-gong-cheng/xi-tong-fen-xi-yu-she-ji/ren-ji-jie-mian-she-ji.md)
 * [软件测试⭐️⭐️](ruan-jian-gong-cheng/ruan-jian-ce-shi.md)
 * [系统运行与软件维护⭐️](ruan-jian-gong-cheng/xi-tong-yun-xing-yu-ruan-jian-wei-hu.md)
