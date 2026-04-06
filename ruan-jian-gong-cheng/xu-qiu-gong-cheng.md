@@ -202,3 +202,7 @@ flowchart LR
 
 * 用户签字确认
 * 验收标准之一
+
+#### 4.1.3.需求跟踪
+
+<img src="../.gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
