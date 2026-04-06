@@ -205,7 +205,7 @@ flowchart LR
 
 #### 4.1.3.需求跟踪
 
-<img src="../.gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
+<img src="../.gitbook/assets/file.excalidraw (1).svg" alt="" class="gitbook-drawing">
 
 <table data-full-width="true"><thead><tr><th align="center">原始需求/用例</th><th>UC-1</th><th>...</th><th>UC-n</th></tr></thead><tbody><tr><td align="center">FR-1</td><td></td><td></td><td></td></tr><tr><td align="center">.</td><td></td><td></td><td></td></tr><tr><td align="center">FR-n</td><td></td><td></td><td></td></tr></tbody></table>
 
@@ -217,6 +217,6 @@ flowchart LR
 
 #### 4.1.4.需求变更管理
 
-<img src="../.gitbook/assets/file.excalidraw (1).svg" alt="" class="gitbook-drawing">
+<img src="../.gitbook/assets/file.excalidraw (1) (1).svg" alt="" class="gitbook-drawing">
 
 CCB 变更控制委员会
