@@ -214,3 +214,7 @@ flowchart LR
 |  UC-1 |     |      |      |      |
 |   .   |     |      |      |      |
 |  UC-n |     |      |      |      |
+
+#### 4.1.4.需求变更管理
+
+<img src="../.gitbook/assets/file.excalidraw (1).svg" alt="" class="gitbook-drawing">
