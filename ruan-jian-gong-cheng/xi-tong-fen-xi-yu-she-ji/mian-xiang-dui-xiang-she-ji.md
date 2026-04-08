@@ -30,3 +30,6 @@ API接口
 
 例如：学员类、课程类
 
+## 基本过程
+
+<img src="../../.gitbook/assets/file.excalidraw (2).svg" alt="" class="gitbook-drawing">
