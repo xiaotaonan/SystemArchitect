@@ -30,7 +30,7 @@
 
 ### 退役阶段
 
-
+<img src="../.gitbook/assets/file.excalidraw (3).svg" alt="" class="gitbook-drawing">
 
 ## 方法
 
