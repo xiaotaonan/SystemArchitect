@@ -18,3 +18,5 @@
 * [系统运行与软件维护⭐️](ruan-jian-gong-cheng/xi-tong-yun-xing-yu-ruan-jian-wei-hu.md)
 
 ## 信息工程与信息系统基础
+
+* [简介](xin-xi-gong-cheng-yu-xin-xi-xi-tong-ji-chu/jian-jie.md)
