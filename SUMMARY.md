@@ -13,5 +13,6 @@
   * [软件系统建模⭐️⭐️](ruan-jian-gong-cheng/xi-tong-fen-xi-yu-she-ji/ruan-jian-xi-tong-jian-mo.md)
   * [人机界面设计](ruan-jian-gong-cheng/xi-tong-fen-xi-yu-she-ji/ren-ji-jie-mian-she-ji.md)
   * [结构化设计⭐️⭐️⭐️⭐️](ruan-jian-gong-cheng/xi-tong-fen-xi-yu-she-ji/jie-gou-hua-she-ji.md)
+  * [面向对象设计](ruan-jian-gong-cheng/xi-tong-fen-xi-yu-she-ji/mian-xiang-dui-xiang-she-ji.md)
 * [软件测试⭐️⭐️](ruan-jian-gong-cheng/ruan-jian-ce-shi.md)
 * [系统运行与软件维护⭐️](ruan-jian-gong-cheng/xi-tong-yun-xing-yu-ruan-jian-wei-hu.md)
