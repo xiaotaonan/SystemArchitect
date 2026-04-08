@@ -20,3 +20,10 @@
 ## 信息工程与信息系统基础
 
 * [简介](xin-xi-gong-cheng-yu-xin-xi-xi-tong-ji-chu/jian-jie.md)
+* [系统工程⭐️](xin-xi-gong-cheng-yu-xin-xi-xi-tong-ji-chu/xi-tong-gong-cheng.md)
+* [信息系统生命周期⭐️](xin-xi-gong-cheng-yu-xin-xi-xi-tong-ji-chu/xin-xi-xi-tong-sheng-ming-zhou-qi.md)
+* [信息系统开发方法⭐️⭐️](xin-xi-gong-cheng-yu-xin-xi-xi-tong-ji-chu/xin-xi-xi-tong-kai-fa-fang-fa.md)
+* [信息系统的分类⭐️⭐️⭐️](xin-xi-gong-cheng-yu-xin-xi-xi-tong-ji-chu/xin-xi-xi-tong-de-fen-lei.md)
+* [政府信息化与电子政务⭐️⭐️](xin-xi-gong-cheng-yu-xin-xi-xi-tong-ji-chu/zheng-fu-xin-xi-hua-yu-dian-zi-zheng-wu.md)
+* [企业信息化与电子商务⭐️⭐️](xin-xi-gong-cheng-yu-xin-xi-xi-tong-ji-chu/qi-ye-xin-xi-hua-yu-dian-zi-shang-wu.md)
+* [数字化转型与智能制造⭐️⭐️](xin-xi-gong-cheng-yu-xin-xi-xi-tong-ji-chu/shu-zi-hua-zhuan-xing-yu-zhi-neng-zhi-zao.md)
